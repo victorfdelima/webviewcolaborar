@@ -7,10 +7,10 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.colaboraread"
+        applicationId "com.twodevs.colaboraread"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 1
+        versionCode 3
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -26,6 +26,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    ndkVersion '1.0.0'
 }
 
 dependencies {
