@@ -22,10 +22,10 @@
 
 
 
-**created by:** Victor de Lima
+**Created by:** Victor de Lima
 
 
 **Contribuidores**
 
-- Victor Ferreira de Lima <https://github.com/victorfdelima>
+- Victor de Lima <https://github.com/victorfdelima>
 - Gustavo Barbosa <https://github.com/gusbdev>
